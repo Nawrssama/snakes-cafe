@@ -1,4 +1,5 @@
-# snakes-cafe
+# snakes-cafe 
+----
 
 # LAB - Class-01
 
@@ -6,3 +7,4 @@
 
 # How to initialize/run your application :
 ## python snakes_cafe.py 
+
